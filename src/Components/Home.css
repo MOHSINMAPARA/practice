@@ -1,0 +1,12 @@
+.Home{
+    display:flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   /* margin-top: 3rem;      */
+}
+.detailsButton{
+    background-color: rgb(3, 3, 3);
+    color: aliceblue;
+    padding: 0.3rem;
+    margin-top: 1rem;
+}

@@ -1,0 +1,32 @@
+.NavBar {
+    /* padding: 0.2rem; */
+    margin: 0rem !important;
+    background-color: rgb(0, 0, 0);
+    color: white !important;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    position: sticky;
+    top: 0;
+    width: 100%;
+
+}
+.linkOne{  
+    color: antiquewhite;
+}
+
+.active {
+    color: rgb(255, 0, 0);
+}
+
+.count{
+    position: relative;
+    bottom: 1.9rem;
+    left: 1.7rem;
+}
+.Icon{
+    font-size: 200%;
+    position: relative;
+    top: 0.8rem;    
+}
